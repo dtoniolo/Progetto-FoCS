@@ -7,7 +7,7 @@ Il file principale è `Progetto.ipynb`, che contiene il codice.
 I dati sono reperibili a [questo](https://drive.google.com/file/d/1-tJtnIbo1Rt-F1XfoWGVkmBXiI-ciuRx/view "Kiva Dataset") indirizzo. Vista la loro dimensione relativamente grande non sono stati inclusi nel repository, ma devono ovviamente essere scaricati per poter eseguire lo script.
 
 ## Esecuzione
-Il notebook è impostato per essere eseguito su Colab, per due ragioni:
+Il notebook è impostato per essere eseguito su Colab, per tre ragioni:
 
 - si evita di surriscaldare il proprio notebook e di ridurre la durata della batteria nell'esecuzione di alcuni punti inizialmente mal implementati
 
