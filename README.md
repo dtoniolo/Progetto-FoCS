@@ -12,10 +12,7 @@ The notebook is set up to run on Colab, for three reasons:
 1. if the the developer's pc were to be unavailable, the coding can be resumed on another machine without any setup and installation
 1. the data can be linked directly to one's Google Drive, removing the need to have a local copy of the data
 
-If local execution is needed, a quick modification of two lines of code will adapt the code to the new user's enviroment. The details are explained in the notebook.
-
-### Note on Colab and Data on GD
-Although the data is publicly available inside a GD folder, Colab needs it to reside inside your own Google Drive. The file can be copied directly from the source to your GD folder, without having to download it locally and then upload it.
+If local execution is needed, a quick modification of two lines of code will adapt the code to the new user's enviroment. The details are explained in the notebook and in the `Data Import.md` file.
 
 
 # Italiano
@@ -37,4 +34,4 @@ Il notebook è impostato per essere eseguito su Colab, per tre ragioni:
 
 - è possibile collegare i dataset presenti nel proprio Google Drive, evitando di scaricarli in locale
 
-Se si desidera eseguire il notebook in locale, è necessario rimuovere la parte iniziale che monta Google Drive.
+È anche possibile eseguire il notebook in locale. Entrambi i metodi sono documentati nel notebook e nel file `Data Import.md`.
